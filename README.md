@@ -1,3 +1,3 @@
 # Vaccine Covid-19
-#PRACTICA FRONT END
+# PRACTICA FRONT END
 # https://jessicazempoalteca.github.io/projectVaccineCovid/
